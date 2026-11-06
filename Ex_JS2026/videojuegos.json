@@ -1,0 +1,122 @@
+[
+    {
+        "titulo": "The Secret of Monkey Island",
+        "genero": "Aventura",
+        "precio": 9.99,
+        "disponible": true
+    },
+    {
+        "titulo": "Monkey Island 2: LeChuck's Revenge",
+        "genero": "Aventura",
+        "precio": 9.99,
+        "disponible": true
+    },
+    {
+        "titulo": "Baldur's Gate",
+        "genero": "RPG",
+        "precio": 19.99,
+        "disponible": true
+    },
+    {
+        "titulo": "Baldur's Gate II",
+        "genero": "RPG",
+        "precio": 19.99,
+        "disponible": false
+    },
+    {
+        "titulo": "Baldur's Gate 3",
+        "genero": "RPG",
+        "precio": 59.99,
+        "disponible": true
+    },
+    {
+        "titulo": "The Legend of Zelda: Breath of the Wild",
+        "genero": "Aventura",
+        "precio": 59.99,
+        "disponible": true
+    },
+    {
+        "titulo": "The Witcher 3: Wild Hunt",
+        "genero": "RPG",
+        "precio": 39.99,
+        "disponible": true
+    },
+    {
+        "titulo": "Cyberpunk 2077",
+        "genero": "RPG",
+        "precio": 59.99,
+        "disponible": true
+    },
+    {
+        "titulo": "Minecraft",
+        "genero": "Sandbox",
+        "precio": 29.99,
+        "disponible": true
+    },
+    {
+        "titulo": "Stardew Valley",
+        "genero": "Simulación",
+        "precio": 13.99,
+        "disponible": true
+    },
+    {
+        "titulo": "Resident Evil 4",
+        "genero": "Terror",
+        "precio": 39.99,
+        "disponible": true
+    },
+    {
+        "titulo": "Silent Hill 2",
+        "genero": "Terror",
+        "precio": 69.99,
+        "disponible": false
+    },
+    {
+        "titulo": "Street Fighter 6",
+        "genero": "Lucha",
+        "precio": 49.99,
+        "disponible": true
+    },
+    {
+        "titulo": "Tekken 8",
+        "genero": "Lucha",
+        "precio": 69.99,
+        "disponible": true
+    },
+    {
+        "titulo": "Elden Ring",
+        "genero": "Acción",
+        "precio": 59.99,
+        "disponible": true
+    },
+    {
+        "titulo": "Hollow Knight",
+        "genero": "Acción",
+        "precio": 14.99,
+        "disponible": false
+    },
+    {
+        "titulo": "Forza Horizon 5",
+        "genero": "Carreras",
+        "precio": 59.99,
+        "disponible": true
+    },
+    {
+        "titulo": "Gran Turismo 7",
+        "genero": "Carreras",
+        "precio": 69.99,
+        "disponible": true
+    },
+    {
+        "titulo": "Starfield",
+        "genero": "Ciencia ficción",
+        "precio": 69.99,
+        "disponible": false
+    },
+    {
+        "titulo": "No Man's Sky",
+        "genero": "Ciencia ficción",
+        "precio": 29.99,
+        "disponible": true
+    }
+]

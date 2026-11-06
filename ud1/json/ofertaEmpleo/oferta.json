@@ -1,0 +1,74 @@
+[
+    {
+        "empresa": "Valve",
+        "sector": "Informática",
+        "salario": 42000,
+        "activa": true
+    },
+    {
+        "empresa": "Pixar",
+        "sector": "Animación",
+        "salario": 45000,
+        "activa": true
+    },
+    {
+        "empresa": "Studio Ghibli",
+        "sector": "Animación",
+        "salario": 38000,
+        "activa": false
+    },
+    {
+        "empresa": "Nintendo",
+        "sector": "Informática",
+        "salario": 40000,
+        "activa": true
+    },
+    {
+        "empresa": "Rockstar Games",
+        "sector": "Informática",
+        "salario": 48000,
+        "activa": true
+    },
+    {
+        "empresa": "DreamWorks Animation",
+        "sector": "Animación",
+        "salario": 36000,
+        "activa": true
+    },
+    {
+        "empresa": "Ubisoft",
+        "sector": "Informática",
+        "salario": 34000,
+        "activa": false
+    },
+    {
+        "empresa": "Industrial Light & Magic",
+        "sector": "Cine",
+        "salario": 46000,
+        "activa": true
+    },
+    {
+        "empresa": "CD Projekt Red",
+        "sector": "Informática",
+        "salario": 44000,
+        "activa": true
+    },
+    {
+        "empresa": "Studio Trigger",
+        "sector": "Animación",
+        "salario": 33000,
+        "activa": true
+    },
+    {
+        "empresa": "Warner Bros.",
+        "sector": "Cine",
+        "salario": 39000,
+        "activa": false
+    },
+    {
+        "empresa": "The game kitchen",
+        "sector": "Informática",
+        "salario": 37000,
+        "activa": true
+    }
+]
